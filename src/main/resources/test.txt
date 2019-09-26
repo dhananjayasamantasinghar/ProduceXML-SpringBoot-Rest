@@ -1,0 +1,2 @@
+http://localhost:8080/customer
+<Customer><cId>1</cId><cName>Dhananjaya</cName><cAddr>Rourkela</cAddr></Customer>
